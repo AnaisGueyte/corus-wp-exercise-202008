@@ -2,3 +2,16 @@
  Theme Name:   Corus WordPress Exercise
  Version:      1.0.2
 */
+
+
+.hero{
+	width: 80%;
+	margin: auto;
+}
+h1{
+	font-family: 'Open Sans';
+}
+
+.your-class img{
+	margin: auto;
+}
