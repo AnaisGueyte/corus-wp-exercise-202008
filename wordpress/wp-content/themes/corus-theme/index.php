@@ -27,6 +27,5 @@ $image3 = $image_3['url'];
 </article>
 
 
-
 <?php get_footer(); ?>
 
